@@ -1,4 +1,3 @@
-# Recommendation-system-project  
 # Project Title: Book Recommendation System  
 
 ## Description  
