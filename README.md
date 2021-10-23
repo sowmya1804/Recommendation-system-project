@@ -17,7 +17,7 @@ Libraries: Numpy,Pandas,Matplotlib
 Dataset downloaded from kaggle- https://www.kaggle.com/rxsraghavagrawal/book-recommender-system  
 files: Ratings,Users,Books  
 
-## Table Of Contents  
+## Steps Involved  
 
 1) Importing Libraries  
 2) Reading the dataset with necessary features  
